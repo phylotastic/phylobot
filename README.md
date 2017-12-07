@@ -17,7 +17,7 @@ This serves as an interface to Open Tree of Life using Phylotastic and the rotl 
 
 ## NCBI
 
-`@phylobot #map Formica` will give you a link to that taxon at NCBI.
+`@phylobot #ncbi Formica` will give you a link to that taxon at NCBI.
 
 ## EOL
 
